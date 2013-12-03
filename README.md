@@ -11,3 +11,4 @@ REQUIRE JS Samples
   
   - API for geo data used in the sample - http://www.geonames.org/export/ws-overview.html
   - API sample with personal key - http://api.geonames.org/postalCodeLookupJSON?formatted=true&postalcode=59102&username=maloney1&style=full
+  - Reference documents for JQuery CDN in Requirejs - https://github.com/requirejs/example-jquery-cdn
